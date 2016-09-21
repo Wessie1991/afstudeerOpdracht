@@ -1,0 +1,11 @@
+git checkout -b feature_x 
+	maak een kopie van de branch en ga er naar toe
+git push origin <branch>
+	lood al je aan gepasten conden to naar gid 
+git pull
+	haal de meest recente coden op van git 
+git add ..
+	add  wat je later wil uploden 
+git commit -m "Commit message"
+	wat heb je aangepast kan je effen vertellen
+
