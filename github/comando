@@ -8,4 +8,6 @@ git add ..
 	add  wat je later wil uploden 
 git commit -m "Commit message"
 	wat heb je aangepast kan je effen vertellen
+git clone git@github.com:Wessie1991/afstudeerOpdracht.git
+	ophalen van je git dingens
 
