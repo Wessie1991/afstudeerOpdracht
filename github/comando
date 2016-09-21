@@ -1,0 +1,16 @@
+git checkout -b feature_x 
+	maak een kopie van de branch en ga er naar toe
+git push origin <branch>
+	lood al je aan gepasten conden to naar gid 
+git pull origin 
+	 haal je de code op van een specefieke tak
+git add ..
+	add  wat je later wil uploden 
+git commit -m "Commit message"
+	wat heb je aangepast kan je effen vertellen
+git clone git@github.com:Wessie1991/afstudeerOpdracht.git
+	ophalen van je git dingens
+
+
+kan nog meer 
+
